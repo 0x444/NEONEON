@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{21D911B5-4FCD-F8A5-D32F-C9A43C4387B7}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "neoneon",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
